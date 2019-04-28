@@ -1,7 +1,5 @@
 <?php 
 
-echo "header is now working";
-
-echo "working body!";
+echo "footer is now working";
 
 ?>
