@@ -2,6 +2,6 @@
 
 echo "header is now working";
 
-echo "working!";
+echo "working body!";
 
  ?>
