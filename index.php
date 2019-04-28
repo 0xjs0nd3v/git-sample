@@ -1,9 +1,5 @@
 <?php 
 
-echo "header is now working";
+echo "footer is now working";
 
-echo "working body!";
-
-echo "no footer";
-
- ?>
+?>
